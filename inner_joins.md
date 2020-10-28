@@ -8,7 +8,7 @@ But what if we don't have that direct link between tables?
 
 What if we have multiple one to many relationships? Or a Many to Many relationship?
 
-<img src="images/bookings_tables.png" width="550" height="250" >
+<img src="images/bookings_tables.png" >
 
 In the representation above a student can make many bookings and a course can have many bookings as well. The bookings table is the link between students and courses, meaning students can have many courses they're booked on and courses can be booked by many students.
 
