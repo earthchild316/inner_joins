@@ -19,7 +19,7 @@ Setup for this lesson
 copy start_point
 dropdb course_tracker
 createdb course_tracker
-psql -d course_tracker -f courses.sql
+psql -d course_tracker -f course_bookings.sql
 touch queries.sql
 ```
 
